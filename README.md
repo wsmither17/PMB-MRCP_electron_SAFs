@@ -1,5 +1,3 @@
-# PMB-MRCP_electron_SAFs
-
 Journal: Physics in Medicine and Biology
 
 Title: Electron Specific Absorbed Fractions for the ICRP Family of Mesh-Type Reference Computational Phantoms
