@@ -29,7 +29,7 @@ Target,Source,<0.000>,<0.001>, … ,<10.000>
 
 Each data row is one target-source pair (86 sources x 62 targets = 5,332 pairs). The remaining columns give the SAF at each monoenergetic source electron energy (in **MeV**). Electron PHITS simulations were run on a logarithmic grid from 10 keV to 10 MeV (25 datapoints). A limiting value at 0 MeV was computed following Eqns. 8-10 along with interpolated values at 1 and 5 keV (3 datapoints) for a total of 28 datapoints per target-source pair (Columns C:AD). A zero value at an energy greater than 0 MeV is one in which the calculated collisional + radiative SAF was found to be zero - i.e. a PHITS collisional tally + photon SAF of zero.
 
-## Data source files — `SAF_origin.xlsx`,
+## Data source files — `SAF_origin.xlsx`
 **`SAF_origin.xlsx`** provides the provenance of a specific target-source pair applicable to all 12 phantoms, whether directly calculated in this study, taken from **Shin *et al* (2025)**, or from **ICRP Publication 155 (2023)**.
 
 ## Change Log
